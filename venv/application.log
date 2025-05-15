@@ -1,0 +1,39 @@
+2025-05-09 12:01:17,959 - root - INFO - I am in main ....
+2025-05-09 12:01:17,962 - root - INFO - Calling Saprk object
+2025-05-09 12:01:27,270 - root - INFO - Validating Spark object
+2025-05-09 12:03:32,981 - root - INFO - I am in main ....
+2025-05-09 12:03:32,982 - root - INFO - Calling Saprk object
+2025-05-09 12:03:41,914 - root - INFO - Spark object : <pyspark.sql.session.SparkSession object at 0x7f67ca468140>
+2025-05-09 12:03:41,914 - root - INFO - Validating Spark object
+2025-05-09 12:25:34,799 - root - INFO - I am in main ....
+2025-05-09 12:25:34,800 - root - INFO - Calling Saprk object
+2025-05-09 12:25:34,800 - create_spark - INFO - get_spark_object method started 
+2025-05-09 12:25:34,800 - create_spark - INFO - master is: local
+2025-05-09 12:25:43,350 - root - INFO - Spark object : <pyspark.sql.session.SparkSession object at 0x7fcc7e023680>
+2025-05-09 12:25:43,351 - root - INFO - Validating Spark object
+2025-05-09 12:25:43,351 - validate - WARNING - Start get_current_date method... 
+2025-05-09 12:25:50,739 - validate - WARNING - Vaildating Spark object with current DateTime: %s[Row(current_date()=datetime.date(2025, 5, 9))]
+2025-05-09 13:26:58,664 - root - INFO - I am in main ....
+2025-05-09 13:26:58,665 - root - INFO - Calling Saprk object
+2025-05-09 13:26:58,665 - create_spark - INFO - get_spark_object method started 
+2025-05-09 13:26:58,665 - create_spark - INFO - master is: local
+2025-05-09 13:27:08,758 - root - INFO - Spark object : <pyspark.sql.session.SparkSession object at 0x7f4e643076b0>
+2025-05-09 13:27:08,758 - root - INFO - Validating Spark object
+2025-05-09 13:27:08,759 - validate - WARNING - Start get_current_date method... 
+2025-05-09 13:27:16,282 - validate - WARNING - Vaildating Spark object with current DateTime: %s[Row(current_date()=datetime.date(2025, 5, 9))]
+2025-05-09 13:31:47,029 - root - INFO - I am in main ....
+2025-05-09 13:31:47,029 - root - INFO - Calling Saprk object
+2025-05-09 13:31:47,029 - create_spark - INFO - get_spark_object method started 
+2025-05-09 13:31:47,029 - create_spark - INFO - master is: local
+2025-05-09 13:31:56,221 - create_spark - INFO - Spark object created...
+2025-05-09 13:31:56,221 - root - INFO - Validating Spark object
+2025-05-09 13:31:56,221 - validate - WARNING - Start get_current_date method... 
+2025-05-09 13:32:03,743 - validate - WARNING - Vaildating Spark object with current DateTime: %s[Row(current_date()=datetime.date(2025, 5, 9))]
+2025-05-09 13:36:22,895 - root - INFO - I am in main ....
+2025-05-09 13:36:22,896 - root - INFO - Calling Saprk object
+2025-05-09 13:36:22,896 - create_spark - INFO - get_spark_object method started 
+2025-05-09 13:36:22,896 - create_spark - INFO - master is: local
+2025-05-09 13:36:31,298 - create_spark - INFO - Spark object created...
+2025-05-09 13:36:31,299 - root - INFO - Validating Spark object
+2025-05-09 13:36:31,299 - validate - WARNING - Start get_current_date method... 
+2025-05-09 13:36:38,047 - validate - WARNING - Vaildating Spark object with current DateTime: %s[Row(current_date()=datetime.date(2025, 5, 9))]
