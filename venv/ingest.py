@@ -96,4 +96,4 @@ def load_input_data(spark):
 
 def display_df(df):
 
-    return df.show(truncate=False)
+    return df.show()
